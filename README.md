@@ -1,2 +1,2 @@
-# Config
-This is my emacs config
+# Configuration
+This is my emacs configuration
