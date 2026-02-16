@@ -1,0 +1,10 @@
+# Directory
+/auto-save-list/
+/elpa/
+/eln-cache/
+/tmp/
+
+# Files
+/custom.el
+/history
+/places
